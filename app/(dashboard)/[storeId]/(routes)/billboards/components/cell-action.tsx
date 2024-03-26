@@ -17,7 +17,7 @@ import {
 // import { AlertModal } from "@/components/modals/alert-modal";
 
 import { BillboardColumn } from "./columns";
-import AlertModal from "@/components/modals/alert-modal";
+import { AlertModal } from "@/components/modals/alert-modal";
 // import { AlertModal } from "@/components/modals/Alert-modal";
 // import { AlertModal } from "@/components/modals/Alert-modal";
 // import { AlertModal } from "@/components/modals/Alert-modal";
