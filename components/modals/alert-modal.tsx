@@ -13,7 +13,7 @@ interface AlertModalProps {
 	loading: boolean;
 }
 
-export const AlertModal: React.FC<AlertModalProps> = ({
+const AlertModal: React.FC<AlertModalProps> = ({
 	isOpen,
 	onClose,
 	onConfirm,
@@ -51,3 +51,4 @@ export const AlertModal: React.FC<AlertModalProps> = ({
 		</Modal>
 	);
 };
+export default AlertModal;
